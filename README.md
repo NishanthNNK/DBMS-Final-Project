@@ -13,8 +13,8 @@ Custom Project Component: Beyond the database translation, our project extends i
 
 ## Team Members - GitHub IDs
 Nishanth Nandakumar - NishanthNNK
-Jongkyu Lee -  
-Dhinesh Natarajan - G23045054
+Jongkyu Lee -  jonakyu
+Dhinesh Natarajan - dineshrajagithub
 
 ## Dataset Description
 
