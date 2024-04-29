@@ -20,7 +20,7 @@ Custom Project Component: After restructuring the dataset, we expanded the proje
 ## Overview of Notebooks
 
 ### Notebook 1 - Database Initialization and Analysis
-Focuses on efficient data manipulation and analysis of the Yelp dataset using Pandas and SQLAlchemy. It involves reading data from CSV files into DataFrames, encompassing Yelp’s businesses, reviews, users, tips, and check-ins. The notebook demonstrates how to create PostgreSQL tables specifically for Illinois data, facilitating localized analysis.
+Focuses on efficient data manipulation and analysis of the Yelp dataset using Pandas and SQLAlchemy. It involves reading data from JSON to CSV files and into DataFrames, encompassing Yelp’s businesses, reviews, users, tips, and check-ins. The notebook demonstrates how to create PostgreSQL tables specifically for Illinois data, facilitating localized analysis.
 
 **Key functionalities demonstrated:**
 
