@@ -8,19 +8,14 @@ Our project is a multifaceted endeavor that encompasses elements of both Databas
 
 Database Translation Component: Initially, the project focused on translating the Yelp dataset from its original, denormalized JSON format into a structured relational database schema suitable for SQL storage. This translation was essential to facilitate subsequent data manipulation, analysis, and model training processes. By restructuring the data, we significantly enhanced its accessibility and usability for complex queries and analytical tasks.
 
-Custom Project Component: After restructuring the dataset, we expanded the project's scope to include the development and implementation of natural language processing (NLP) and machine learning techniques. The primary objective of this phase was to create a sophisticated model capable of distinguishing between genuine and malicious reviews effectively. Key elements of this phase included:
+Custom Project Component: After restructuring the dataset, we expanded the project's scope to include the development and implementation of natural language processing (NLP) and machine learning techniques. The primary objective of this phase was to create a sophisticated model capable of distinguishing between genuine and malicious reviews effectively. 
 
-Feature Engineering: We crafted and selected relevant features from the dataset that could provide significant insights into the behaviors and characteristics of review text and user patterns.
+**Key elements of this phase included:**
 
-Sentiment Analysis: We employed sentiment analysis to understand the emotional tone behind reviews, which helped in identifying extremity and bias in the sentiments expressed.
-
-Topic Modeling: By analyzing the common topics discussed in reviews, we gained a deeper understanding of the content and context, which assisted in distinguishing between typical and atypical review patterns.
-
-User Behavior Analysis: Analyzing patterns in user activity and reviewing habits contributed to identifying outliers and potential fraudulent behaviors.
-
-Predictive Modeling: We developed and trained a machine learning model using the features engineered from our analyses. The model was designed to predict the likelihood of a review being genuine or malicious.
-
-Real-time Model Deployment: The final step involved deploying this model into a real-time environment, where it could process incoming review data and provide assessments in real time.
+- Feature Engineering: Extracted relevant features to shed light on review text and user behaviors.
+- Sentiment Analysis: Analyzed the emotional tone of reviews to detect bias and extremity.
+- Predictive Modeling: Developed a model to differentiate between genuine and malicious reviews.
+- Real-time Model Deployment: Deployed the model to assess reviews in real time, enhancing responsiveness.
 
 ## Overview of Notebooks
 
