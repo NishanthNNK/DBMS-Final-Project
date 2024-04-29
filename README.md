@@ -24,7 +24,7 @@ Real-time Model Deployment: The final step involved deploying this model into a 
 
 ## Overview of Notebooks
 
-Notebook 1 - Database Initialization and Analysis
+### Notebook 1 - Database Initialization and Analysis
 Focuses on efficient data manipulation and analysis of the Yelp dataset using Pandas and SQLAlchemy. It involves reading data from CSV files into DataFrames, encompassing Yelp’s businesses, reviews, users, tips, and check-ins. The notebook demonstrates how to create PostgreSQL tables specifically for Illinois data, facilitating localized analysis.
 
 Key functionalities demonstrated:
@@ -33,7 +33,7 @@ Key functionalities demonstrated:
 - Database backup using pg_dump for security purposes.
 - Integration of TextBlob for sentiment analysis and basic machine learning techniques to enrich the dataset with insights into user sentiment and trends, illustrating advanced data processing capabilities within a database management framework.
 
-Notebook 2 - Machine Learning and Demo
+### Notebook 2 - Machine Learning and Demo
 Notebook 2 establishes a comprehensive analysis pipeline to identify likely fake reviews. It leverages Python for data preprocessing, utilizes machine learning models including RandomForest and LSTM for text analysis, and visualizes results effectively.
 
 Key features include:
@@ -42,7 +42,7 @@ Key features include:
 - Machine Learning Integration with RandomForest and LSTM models to analyze text and predict fake reviews.
 - A Demo section where users can input review text and use the trained model to assess its authenticity. This interactive feature demonstrates the model's practicality by displaying classification metrics, confusion matrices, and word clouds from reviews flagged as fake.
 
-Notebook 3 - Working File Yelp
+### Notebook 3 - Working File Yelp
 Notebook 3 was used in the initial stages of our project as part of Deliverable 02 - Git Repository setup. It likely contains preliminary explorations and configurations necessary for the subsequent development of the project's data processing and machine learning components.
 
 ## Team Members - GitHub IDs
